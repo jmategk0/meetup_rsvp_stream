@@ -1,0 +1,58 @@
+[
+    {
+        "event": {
+            "event_id": "250753032",
+            "event_name": "Welcome Walk",
+            "event_url": "https://www.meetup.com/Sierra-Club-Hiking-Meetup/events/250753032/",
+            "time": 1526846400000
+        },
+        "group": {
+            "group_city": "Sunnyvale",
+            "group_country": "us",
+            "group_id": 1809828,
+            "group_lat": 37.35,
+            "group_lon": -122.03,
+            "group_name": "Sierra Club Hiking Meetup",
+            "group_state": "CA",
+            "group_topics": [
+                {
+                    "topic_name": "Fitness",
+                    "urlkey": "fitness"
+                },
+                {
+                    "topic_name": "Hiking",
+                    "urlkey": "hiking"
+                },
+                {
+                    "topic_name": "Social",
+                    "urlkey": "social"
+                },
+                {
+                    "topic_name": "Outdoors",
+                    "urlkey": "outdoors"
+                },
+                {
+                    "topic_name": "Walking",
+                    "urlkey": "walkers"
+                }
+            ],
+            "group_urlname": "Sierra-Club-Hiking-Meetup"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 73042492,
+            "member_name": "Kiran G",
+            "photo": "https://secure.meetupstatic.com/photos/member/5/0/e/5/thumb_277160709.jpeg"
+        },
+        "mtime": 1526781485288,
+        "response": "yes",
+        "rsvp_id": 1729035271,
+        "venue": {
+            "lat": 37.430397,
+            "lon": -122.086067,
+            "venue_id": 24356481,
+            "venue_name": "Michael's at Shoreline"
+        },
+        "visibility": "public"
+    }
+]

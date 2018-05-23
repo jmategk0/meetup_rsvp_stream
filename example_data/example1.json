@@ -1,0 +1,822 @@
+[
+    {
+        "event": {
+            "event_id": "250924195",
+            "event_name": "Spark ML + PipelineAI + Real-Time TensorFlow + Mesosphere DC/OS +GPU +TPU +Kafka",
+            "event_url": "https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/250924195/",
+            "time": 1528333200000
+        },
+        "group": {
+            "group_city": "San Francisco",
+            "group_country": "us",
+            "group_id": 18712511,
+            "group_lat": 37.77,
+            "group_lon": -122.41,
+            "group_name": "PipelineAI Advanced Spark and TensorFlow Meetup (SF, Global)",
+            "group_state": "CA",
+            "group_topics": [
+                {
+                    "topic_name": "Predictive Analytics",
+                    "urlkey": "predictive-analytics"
+                },
+                {
+                    "topic_name": "High Scalability Computing",
+                    "urlkey": "high-scalability-computing"
+                },
+                {
+                    "topic_name": "Artificial Intelligence Programming",
+                    "urlkey": "artificial-intelligence-programming"
+                },
+                {
+                    "topic_name": "Artificial Intelligence Applications",
+                    "urlkey": "artificial-intelligence-applications"
+                },
+                {
+                    "topic_name": "Apache Spark",
+                    "urlkey": "apache-spark"
+                },
+                {
+                    "topic_name": "Data Science",
+                    "urlkey": "data-science"
+                },
+                {
+                    "topic_name": "Machine Learning",
+                    "urlkey": "machine-learning"
+                },
+                {
+                    "topic_name": "TensorFlow",
+                    "urlkey": "tensorflow"
+                },
+                {
+                    "topic_name": "Big Data Analytics",
+                    "urlkey": "big-data-analytics"
+                },
+                {
+                    "topic_name": "Deep Learning",
+                    "urlkey": "deep-learning"
+                },
+                {
+                    "topic_name": "Apache Kafka",
+                    "urlkey": "apache-kafka"
+                },
+                {
+                    "topic_name": "Neural Networks",
+                    "urlkey": "neural-networks"
+                },
+                {
+                    "topic_name": "Artificial Intelligence",
+                    "urlkey": "ai"
+                },
+                {
+                    "topic_name": "Natural Language Processing",
+                    "urlkey": "natural-language-processing"
+                },
+                {
+                    "topic_name": "Kubernetes",
+                    "urlkey": "kubernetes"
+                }
+            ],
+            "group_urlname": "Advanced-Spark-and-TensorFlow-Meetup"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 13688380,
+            "member_name": "Suhas",
+            "photo": "https://secure.meetupstatic.com/photos/member/8/6/8/a/thumb_132274442.jpeg"
+        },
+        "mtime": 1526763898053,
+        "response": "no",
+        "rsvp_id": 1729011420,
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "jxvgspyxjbnb",
+            "event_name": "Tips on How to Attract the Right Man",
+            "event_url": "https://www.meetup.com/helpingwomenattracthealthyrelationships/events/250928930/",
+            "time": 1528664400000
+        },
+        "group": {
+            "group_city": "Vancouver",
+            "group_country": "ca",
+            "group_id": 21111138,
+            "group_lat": 49.28,
+            "group_lon": -123.11,
+            "group_name": "Helping Women Attract Healthy Relationships",
+            "group_state": "BC",
+            "group_topics": [
+                {
+                    "topic_name": "Successful Relationships",
+                    "urlkey": "successful-relationships"
+                },
+                {
+                    "topic_name": "Life Coaching",
+                    "urlkey": "life-coaching"
+                },
+                {
+                    "topic_name": "Relationship Advice",
+                    "urlkey": "reladvice"
+                },
+                {
+                    "topic_name": "Relationship Building",
+                    "urlkey": "relationship-building"
+                },
+                {
+                    "topic_name": "Life Transformation",
+                    "urlkey": "lifetransform"
+                },
+                {
+                    "topic_name": "Personal Development/Confidence Building",
+                    "urlkey": "personal-development-confidence-building"
+                },
+                {
+                    "topic_name": "Happiness",
+                    "urlkey": "happiness"
+                },
+                {
+                    "topic_name": "Personal Development",
+                    "urlkey": "personal-development"
+                },
+                {
+                    "topic_name": "Dating and Relationships",
+                    "urlkey": "dating-and-relationships"
+                },
+                {
+                    "topic_name": "Self-Empowerment",
+                    "urlkey": "self-empowerment"
+                },
+                {
+                    "topic_name": "Single Moms",
+                    "urlkey": "single-moms"
+                },
+                {
+                    "topic_name": "Confidence and Self-Esteem",
+                    "urlkey": "confidence-and-self-esteem"
+                },
+                {
+                    "topic_name": "Self Help & Self Improvement",
+                    "urlkey": "self-help-self-improvement"
+                },
+                {
+                    "topic_name": "Healthy Family and Healthy Environment",
+                    "urlkey": "healthy-family-and-healthy-environment"
+                }
+            ],
+            "group_urlname": "helpingwomenattracthealthyrelationships"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 91905942,
+            "member_name": "cindy7012",
+            "photo": "https://secure.meetupstatic.com/photos/member/e/2/8/d/thumb_273417997.jpeg"
+        },
+        "mtime": 1526763898828,
+        "response": "yes",
+        "rsvp_id": 1729011421,
+        "venue": {
+            "lat": 49.279572,
+            "lon": -123.115288,
+            "venue_id": 25316042,
+            "venue_name": "Pacific Coffee Roasters"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "249816191",
+            "event_name": "Dessert \ud83c\udf6b & Beer \ud83c\udf7b Pairing",
+            "event_url": "https://www.meetup.com/SFLHops/events/249816191/",
+            "time": 1526769000000
+        },
+        "group": {
+            "group_city": "Miami",
+            "group_country": "us",
+            "group_id": 18399629,
+            "group_lat": 25.95,
+            "group_lon": -80.18,
+            "group_name": "SFL Hops:  Craft Beer in the Tri-County",
+            "group_state": "FL",
+            "group_topics": [
+                {
+                    "topic_name": "Nightlife",
+                    "urlkey": "nightlife"
+                },
+                {
+                    "topic_name": "Beer",
+                    "urlkey": "beer"
+                },
+                {
+                    "topic_name": "Drinking",
+                    "urlkey": "drinking"
+                },
+                {
+                    "topic_name": "Happy Hour",
+                    "urlkey": "happy-hours"
+                },
+                {
+                    "topic_name": "Pubs and Bars",
+                    "urlkey": "pubs-bars"
+                },
+                {
+                    "topic_name": "Craft Beer",
+                    "urlkey": "craft-beer"
+                },
+                {
+                    "topic_name": "Beer and Food Pairing",
+                    "urlkey": "beer-and-food-pairing"
+                },
+                {
+                    "topic_name": "beer festivals",
+                    "urlkey": "beer-festivals"
+                },
+                {
+                    "topic_name": "Fun Times",
+                    "urlkey": "fun-times"
+                },
+                {
+                    "topic_name": "Social",
+                    "urlkey": "social"
+                },
+                {
+                    "topic_name": "Professional Networking",
+                    "urlkey": "professional-networking"
+                },
+                {
+                    "topic_name": "Singles",
+                    "urlkey": "singles"
+                },
+                {
+                    "topic_name": "New In Town",
+                    "urlkey": "newintown"
+                },
+                {
+                    "topic_name": "Social Networking",
+                    "urlkey": "socialnetwork"
+                },
+                {
+                    "topic_name": "Beer Lovers",
+                    "urlkey": "beer-lovers"
+                }
+            ],
+            "group_urlname": "SFLHops"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 218528309,
+            "member_name": "Hansen Sinclair",
+            "other_services": {
+                "twitter": {
+                    "identifier": "@SinclairHansen"
+                }
+            },
+            "photo": "https://secure.meetupstatic.com/photos/member/f/f/5/thumb_267424085.jpeg"
+        },
+        "mtime": 1526763899179,
+        "response": "yes",
+        "rsvp_id": 1729011422,
+        "venue": {
+            "lat": 26.084759,
+            "lon": -80.137573,
+            "venue_id": 24326263,
+            "venue_name": "Riverside Market South"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "250946335",
+            "event_name": "Music, Dancing, and great Food at Dillons Bayou Lake Pleasant",
+            "event_url": "https://www.meetup.com/ourbucketlistandmore/events/250946335/",
+            "time": 1538866800000
+        },
+        "group": {
+            "group_city": "Phoenix",
+            "group_country": "us",
+            "group_id": 20412472,
+            "group_lat": 33.56,
+            "group_lon": -112.06,
+            "group_name": "The Bucket List",
+            "group_state": "AZ",
+            "group_topics": [
+                {
+                    "topic_name": "Outdoors",
+                    "urlkey": "outdoors"
+                },
+                {
+                    "topic_name": "Vacations",
+                    "urlkey": "vacations"
+                },
+                {
+                    "topic_name": "Dancing",
+                    "urlkey": "dancing"
+                },
+                {
+                    "topic_name": "Singles",
+                    "urlkey": "singles"
+                },
+                {
+                    "topic_name": "New In Town",
+                    "urlkey": "newintown"
+                },
+                {
+                    "topic_name": "Dining Out",
+                    "urlkey": "diningout"
+                },
+                {
+                    "topic_name": "Cruise Vacation",
+                    "urlkey": "cruise-vacation"
+                },
+                {
+                    "topic_name": "Social Networking",
+                    "urlkey": "socialnetwork"
+                },
+                {
+                    "topic_name": "Solo Travelers",
+                    "urlkey": "solo-single-travelers-looking-for-group-to-travel"
+                },
+                {
+                    "topic_name": "Weekend Getaways",
+                    "urlkey": "weekend-getaways"
+                },
+                {
+                    "topic_name": "Adventure Travel",
+                    "urlkey": "adventure-travel"
+                },
+                {
+                    "topic_name": "Weekend Adventures",
+                    "urlkey": "weekend-adventures"
+                },
+                {
+                    "topic_name": "Getaways",
+                    "urlkey": "getaways"
+                },
+                {
+                    "topic_name": "Adventure",
+                    "urlkey": "adventure"
+                },
+                {
+                    "topic_name": "Fun Times",
+                    "urlkey": "fun-times"
+                }
+            ],
+            "group_urlname": "ourbucketlistandmore"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 206145338,
+            "member_name": "Michelle Newland",
+            "photo": "https://secure.meetupstatic.com/photos/member/c/d/6/0/thumb_260872576.jpeg"
+        },
+        "mtime": 1526763899266,
+        "response": "yes",
+        "rsvp_id": 1729011423,
+        "venue": {
+            "lat": 33.570469,
+            "lon": -112.25032,
+            "venue_id": 1313436,
+            "venue_name": "Pleasant Harbor Marina"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "250946336",
+            "event_name": "Conversaci\u00f3n informal en espa\u00f1ol -- Jueves!",
+            "event_url": "https://www.meetup.com/spanish-759/events/250946336/",
+            "time": 1527204600000
+        },
+        "group": {
+            "group_city": "New Orleans",
+            "group_country": "us",
+            "group_id": 516342,
+            "group_lat": 29.97,
+            "group_lon": -90.09,
+            "group_name": "The New Orleans Spanish Language Meetup Group",
+            "group_state": "LA",
+            "group_topics": [
+                {
+                    "topic_name": "Spanish Language",
+                    "urlkey": "spanish"
+                },
+                {
+                    "topic_name": "Expat Spanish",
+                    "urlkey": "expatspanish"
+                }
+            ],
+            "group_urlname": "spanish-759"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 6527877,
+            "member_name": "Lorraine LLB",
+            "photo": "https://secure.meetupstatic.com/photos/member/b/3/1/c/thumb_23745852.jpeg"
+        },
+        "mtime": 1526763899472,
+        "response": "yes",
+        "rsvp_id": 1729011424,
+        "venue": {
+            "lat": 29.92738,
+            "lon": -90.096146,
+            "venue_id": 6176342,
+            "venue_name": "The Columns Hotel"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "250256240",
+            "event_name": "Spilled Ink",
+            "event_url": "https://www.meetup.com/Northern-Virginia-Poets/events/250256240/",
+            "time": 1527289200000
+        },
+        "group": {
+            "group_city": "Centreville",
+            "group_country": "us",
+            "group_id": 18130422,
+            "group_lat": 38.85,
+            "group_lon": -77.46,
+            "group_name": "Northern Virginia Poetry Group",
+            "group_state": "VA",
+            "group_topics": [
+                {
+                    "topic_name": "Poetry",
+                    "urlkey": "poetry"
+                },
+                {
+                    "topic_name": "Poets",
+                    "urlkey": "poets"
+                },
+                {
+                    "topic_name": "Prose and Poetry",
+                    "urlkey": "prose-and-poetry"
+                },
+                {
+                    "topic_name": "Poetry Spoken Word",
+                    "urlkey": "poetry-spoken-word"
+                },
+                {
+                    "topic_name": "Spoken Word",
+                    "urlkey": "spoken-word"
+                },
+                {
+                    "topic_name": "Writing",
+                    "urlkey": "writing"
+                },
+                {
+                    "topic_name": "Writing Workshops",
+                    "urlkey": "writing-workshops"
+                },
+                {
+                    "topic_name": "Poetic Readings",
+                    "urlkey": "poetic-readings"
+                },
+                {
+                    "topic_name": "Poetry Writing",
+                    "urlkey": "poetry-writing"
+                },
+                {
+                    "topic_name": "Open Mic",
+                    "urlkey": "open-mic"
+                },
+                {
+                    "topic_name": "Poetry Workshop",
+                    "urlkey": "poetry-workshop"
+                },
+                {
+                    "topic_name": "Slammers: People Who Like To Perform Their Poetry",
+                    "urlkey": "slammers-people-who-like-to-perform-their-poetry"
+                },
+                {
+                    "topic_name": "Poetry Readings",
+                    "urlkey": "poetry-readings"
+                },
+                {
+                    "topic_name": "Open Mic Poetry",
+                    "urlkey": "open-mic-poetry"
+                }
+            ],
+            "group_urlname": "Northern-Virginia-Poets"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 254858939,
+            "member_name": "Tee"
+        },
+        "mtime": 1526763901074,
+        "response": "yes",
+        "rsvp_id": 1729011426,
+        "venue": {
+            "lat": 38.75049,
+            "lon": -77.47309,
+            "venue_id": 24876261,
+            "venue_name": "Jirani Coffee House"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "246788717",
+            "event_name": "Let's meet to discuss A Man Called Ove by Fredrik Backman.",
+            "event_url": "https://www.meetup.com/if-you-give-a-reader-a-book/events/246788717/",
+            "time": 1528642800000
+        },
+        "group": {
+            "group_city": "Livonia",
+            "group_country": "us",
+            "group_id": 1868551,
+            "group_lat": 42.4,
+            "group_lon": -83.38,
+            "group_name": "\"If you give a reader a book...\"",
+            "group_state": "MI",
+            "group_topics": [
+                {
+                    "topic_name": "Book Club",
+                    "urlkey": "bookclub"
+                },
+                {
+                    "topic_name": "Reading",
+                    "urlkey": "reading"
+                },
+                {
+                    "topic_name": "Readers",
+                    "urlkey": "readers"
+                },
+                {
+                    "topic_name": "Literature",
+                    "urlkey": "literature"
+                }
+            ],
+            "group_urlname": "if-you-give-a-reader-a-book"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 197397912,
+            "member_name": "Stephanie",
+            "photo": "https://secure.meetupstatic.com/photos/member/a/0/a/2/thumb_264281122.jpeg"
+        },
+        "mtime": 1526763901618,
+        "response": "yes",
+        "rsvp_id": 1729011427,
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "249874905",
+            "event_name": "Channeling God Power Meet Up Series:  Detachment From Illusions",
+            "event_url": "https://www.meetup.com/Tampa-Area-Transformational-Metaphysics-Meetup/events/249874905/",
+            "time": 1529168400000
+        },
+        "group": {
+            "group_city": "Tampa",
+            "group_country": "us",
+            "group_id": 19669939,
+            "group_lat": 27.98,
+            "group_lon": -82.34,
+            "group_name": "Tampa Area Transformational Metaphysics Meetup",
+            "group_state": "FL",
+            "group_topics": [
+                {
+                    "topic_name": "Metaphysics",
+                    "urlkey": "metaphysics"
+                },
+                {
+                    "topic_name": "Meditation",
+                    "urlkey": "meditation"
+                },
+                {
+                    "topic_name": "Self-Improvement",
+                    "urlkey": "self-improvement"
+                },
+                {
+                    "topic_name": "Law of Attraction",
+                    "urlkey": "lawofattraction"
+                },
+                {
+                    "topic_name": "Psychology",
+                    "urlkey": "psychology"
+                },
+                {
+                    "topic_name": "Consciousness",
+                    "urlkey": "consciousness"
+                },
+                {
+                    "topic_name": "Life Transformation",
+                    "urlkey": "lifetransform"
+                },
+                {
+                    "topic_name": "Public Speaking",
+                    "urlkey": "publicspeaking"
+                },
+                {
+                    "topic_name": "Spirituality",
+                    "urlkey": "spirituality"
+                },
+                {
+                    "topic_name": "Energy Healing",
+                    "urlkey": "energy-healing"
+                },
+                {
+                    "topic_name": "Personal Development",
+                    "urlkey": "personal-development"
+                },
+                {
+                    "topic_name": "Spiritual Growth",
+                    "urlkey": "spiritual-growth"
+                },
+                {
+                    "topic_name": "Awakening",
+                    "urlkey": "awakening"
+                },
+                {
+                    "topic_name": "Self-Empowerment",
+                    "urlkey": "self-empowerment"
+                },
+                {
+                    "topic_name": "Spiritual Growth & Life Transformation",
+                    "urlkey": "spiritual-growth-life-transformation"
+                }
+            ],
+            "group_urlname": "Tampa-Area-Transformational-Metaphysics-Meetup"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 7878958,
+            "member_name": "Vanessa V.",
+            "photo": "https://secure.meetupstatic.com/photos/member/1/3/2/3/thumb_4624899.jpeg"
+        },
+        "mtime": 1526763902308,
+        "response": "yes",
+        "rsvp_id": 1729011428,
+        "venue": {
+            "lat": 28.095118,
+            "lon": -82.50751,
+            "venue_id": 25766181,
+            "venue_name": "Northdale Executive Suites"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "rrfnglyxhbbc",
+            "event_name": "Morris County Striders Sunday Run",
+            "event_url": "https://www.meetup.com/Morris-County-Striders-Running-Meetup/events/250776575/",
+            "time": 1526821200000
+        },
+        "group": {
+            "group_city": "Rockaway",
+            "group_country": "us",
+            "group_id": 18540786,
+            "group_lat": 40.94,
+            "group_lon": -74.48,
+            "group_name": "Morris County Striders Running Meetup",
+            "group_state": "NJ",
+            "group_topics": [
+                {
+                    "topic_name": "Fitness",
+                    "urlkey": "fitness"
+                },
+                {
+                    "topic_name": "Marathon",
+                    "urlkey": "marathon"
+                },
+                {
+                    "topic_name": "Outdoor  Fitness",
+                    "urlkey": "outdoor-fitness"
+                },
+                {
+                    "topic_name": "Running",
+                    "urlkey": "running"
+                },
+                {
+                    "topic_name": "Trail Running",
+                    "urlkey": "trail-running"
+                },
+                {
+                    "topic_name": "Half Marathon",
+                    "urlkey": "half-marathon"
+                },
+                {
+                    "topic_name": "Beginner's Running",
+                    "urlkey": "beginners-running"
+                },
+                {
+                    "topic_name": "Long Distance Running",
+                    "urlkey": "long-distance-running"
+                }
+            ],
+            "group_urlname": "Morris-County-Striders-Running-Meetup"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 24746852,
+            "member_name": "Jeff Jones",
+            "photo": "https://secure.meetupstatic.com/photos/member/b/4/0/thumb_258062880.jpeg"
+        },
+        "mtime": 1526763902517,
+        "response": "yes",
+        "rsvp_id": 1729011429,
+        "venue": {
+            "lat": 40.909348,
+            "lon": -74.499657,
+            "venue_id": 23756593,
+            "venue_name": "Parking Lot"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "249242904",
+            "event_name": "Texas Roller Girls: Austin Roller Derby (Semi Hosted)",
+            "event_url": "https://www.meetup.com/I-love-Austin-but-I-need-some-f-g-friends/events/249242904/",
+            "time": 1526767200000
+        },
+        "group": {
+            "group_city": "Austin",
+            "group_country": "us",
+            "group_id": 21590254,
+            "group_lat": 30.22,
+            "group_lon": -97.75,
+            "group_name": "I love Austin, but I need some f*****g friends!",
+            "group_state": "TX",
+            "group_topics": [
+                {
+                    "topic_name": "Meet New Friends Make New Friends. Anyone similar?",
+                    "urlkey": "meet-new-friends-make-new-friends-anyone-similar"
+                },
+                {
+                    "topic_name": "movies in movie theatres",
+                    "urlkey": "movies-in-movie-theatres"
+                },
+                {
+                    "topic_name": "Local Activities",
+                    "urlkey": "local-activities"
+                },
+                {
+                    "topic_name": "Exploring",
+                    "urlkey": "exploring"
+                },
+                {
+                    "topic_name": "Park",
+                    "urlkey": "park"
+                },
+                {
+                    "topic_name": "Games",
+                    "urlkey": "games"
+                },
+                {
+                    "topic_name": "Movie Nights",
+                    "urlkey": "movie-nights"
+                },
+                {
+                    "topic_name": "Adventure",
+                    "urlkey": "adventure"
+                },
+                {
+                    "topic_name": "Fun Times",
+                    "urlkey": "fun-times"
+                },
+                {
+                    "topic_name": "Outdoors",
+                    "urlkey": "outdoors"
+                },
+                {
+                    "topic_name": "Social",
+                    "urlkey": "social"
+                },
+                {
+                    "topic_name": "Social Networking",
+                    "urlkey": "socialnetwork"
+                },
+                {
+                    "topic_name": "Travel",
+                    "urlkey": "travel"
+                },
+                {
+                    "topic_name": "New In Town",
+                    "urlkey": "newintown"
+                },
+                {
+                    "topic_name": "Dining Out",
+                    "urlkey": "diningout"
+                }
+            ],
+            "group_urlname": "I-love-Austin-but-I-need-some-f-g-friends"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 131816072,
+            "member_name": "Ian Fink",
+            "photo": "https://secure.meetupstatic.com/photos/member/c/f/1/e/thumb_198953022.jpeg"
+        },
+        "mtime": 1526763903671,
+        "response": "no",
+        "rsvp_id": 1720520091,
+        "venue": {
+            "lat": 30.226681,
+            "lon": -97.755951,
+            "venue_id": 12795952,
+            "venue_name": "Austin Sports Center"
+        },
+        "visibility": "public"
+    }
+]
