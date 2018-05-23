@@ -29,7 +29,7 @@ def dictionary_to_json(dictionary, write_to_file=False, filename=" ", write_mode
 
 
 def dictionary_to_jsonl(documents):
-    with open('example3_clean3.jsonl', 'w') as f:
+    with open('example3_clean.jsonl', 'w') as f:
         for document in documents:
             f.write(json.dumps(document) + '\n')
 
