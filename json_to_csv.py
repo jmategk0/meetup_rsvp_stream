@@ -27,6 +27,12 @@ def dictionary_to_json(dictionary, write_to_file=False, filename=" ", write_mode
         json_data = json.dumps(dictionary, indent=4)
     return json_data
 
+
+def dictionary_to_jsonl(documents):
+    with open('example3.jsonl', 'w') as f:
+        for document in documents:
+            f.write(json.dumps(document) + '\n')
+
 filename = "example_data/example3.json"
 export = "example6.csv"
 flds = [
@@ -68,4 +74,5 @@ for row in data_set:
 
 print(len(clean_data))
 # dictionary_to_csv(clean_data, filename=export, field_names=flds)
-dictionary_to_json(dictionary=clean_data, write_to_file=True, filename="example3_clean.json")
+# dictionary_to_json(dictionary=clean_data, write_to_file=True, filename="example3_clean.json")
+dictionary_to_jsonl(documents=clean_data)
