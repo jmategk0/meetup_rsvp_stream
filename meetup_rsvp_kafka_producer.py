@@ -7,7 +7,7 @@ from utils import clean_meetup_result
 
 meet_up_stream = "ws://stream.meetup.com/2/rsvps"
 topic_name = "meetup_rsvp"
-kafka_server = "localhost:2181"
+kafka_server = "sandbox.hortonworks.com:6667"
 
 producer = KafkaProducer(
     bootstrap_servers=kafka_server,
